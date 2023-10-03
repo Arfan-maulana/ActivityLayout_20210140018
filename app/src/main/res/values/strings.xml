@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Applicationn</string>
+    <string name="p">Mountain</string>
+    <string name="click">ClikMe</string>
+    <string name="motor">Select Your motorcycle</string>
+    <string name="name">Nama: </string>
+    <string name="phone">Phone: </string>
+    <string name="address">address: </string>
+    <string name="bmw">bmw</string>
+</resources>
